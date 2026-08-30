@@ -1,0 +1,19 @@
+# Game files -- never commit these (copyrighted, and huge)
+*.bin
+*.cue
+*.img
+*.iso
+*.chd
+
+# Python
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Emulator save states / memcards, if you ever drop them in this folder
+*.mcd
+*.sav
+*.state
