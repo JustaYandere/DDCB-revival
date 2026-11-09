@@ -65,3 +65,7 @@ Then load that `.cue` in your emulator like normal.
 - If something looks wrong in-game, it's worth re-running with **Untouched** stat mode to confirm the base game is working before troubleshooting the mod itself.
 - This is a fan-made, unofficial project with no affiliation to the original game's publisher or developer.
 - If anyone plays it, the balance in the late game areas isn't the best for the hand-crafted setting, i did most of the decks in one sitting, and was kinda exhausted at the end. feel free to alter any if the decks in the .py file or any of the stats, i tried to make it simple to understand where things were in the .py file for people who want to change things :)
+
+## License
+
+The script and docs in this repository are released under the [MIT License](LICENSE). That covers this tool only — it does not include or grant any rights to the game itself, which remains the property of its respective owners.
